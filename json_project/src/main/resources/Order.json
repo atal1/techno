@@ -1,0 +1,89 @@
+{
+	"StandardHeader": {
+		"SendingTime": "2019-12-17T01:00:29.649Z",
+		"WMHeader": {
+			"WMHeaderProduct": "Equtity",
+			"WMHeaderChannel": "Advisory",
+			"WMHeaderTouchpoint": "Batch"
+		}
+	},
+
+	"Body": [{
+			"Entities": [{
+					"BaseReference": {
+						"EntityOID": "20191216063145-C-TICKET",
+						"WMEntityVersionID": "1",
+						"WMpartition": "1",
+						"RootID": "O326089-C",
+						"parentEntityID": "O326089-C-SUMMARY",
+						"EntityType": "TICKET",
+						"EntityStatus": "NEW",
+						"WMEntitySchemaName": "minerva-cat-1_0.json",
+						"WMEntitySchemaVersion": "1_0",
+						"WMEntitySchemaCode": "1"
+					},
+					"OrderID": "O326089",
+					"ManualOrderIndicator": "N",
+					"PreviouslyReported": "N",
+					"Currency": "USD",
+					"Side": "2",
+					"OrdType": "1",
+					"TimeInForce": "0",
+					"TradeDate": 20191216,
+					"TransactTime": "2019-12-16T13:17:44.022Z",
+					"Instrument": {
+						"Symbol": "AHKSY",
+						"SecurityID": "043400100",
+						"SecurityType": "CS"
+					},
+
+					"OrderQtyData": {
+						"OrderQty": "104"
+					},
+
+					"InitialOrderDate": "20191216",
+					"WMEntityExtRefID": {
+						"WMEntityExtRefID": "20191216063145"
+					},
+					"Parties": [
+
+						{
+
+							"PartyID": "MM_ZZZZZ",
+							"PartyIDSource": "S",
+							"PartyRole": "49"
+						}
+
+					],
+
+					"TrdRegTimestamps": [{
+							"TrdRegTimestamp": "2019-12-16T13:17:44.022Z",
+							"TrdRegTimestampType": "117",
+							"TrdRegTimestampOrigin": "014"
+						},
+						{
+							"TrdRegTimestamp": "2019-12-16T13:17:44.022Z",
+							"TrdRegTimestampType": "4",
+							"TrdRegTimestampOrigin": "014"
+						},
+						{
+							"TrdRegTimestamp": "2019-12-16T13:17:44.022Z",
+							"TrdRegTimestampType": "118",
+							"TrdRegTimestampOrigin": "012"
+						},
+						{
+							"TrdRegTimestamp": "2019-12-16T13:17:44.022Z",
+							"TrdRegTimestampType": "6",
+							"TrdRegTimestampOrigin": "012"
+						}
+					]
+
+
+				}
+
+			]
+		}
+
+	]
+
+}
