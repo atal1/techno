@@ -1,80 +1,76 @@
 {
 	"StandardHeader": {
-		"SendingTime": "2019-12-17T01:00:29.649Z",
+		"SendingTime": "zd",
 		"WMHeader": {
-			"WMHeaderProduct": "Equtity",
-			"WMHeaderChannel": "Advisory",
-			"WMHeaderTouchpoint": "Batch"
+			"WMHeaderProduct": "fas",
+			"WMHeaderChannel": "sadf",
+			"WMHeaderTouchpoint": "sdfds"
 		}
 	},
 
 	"Body": [{
 			"Entities": [{
 					"BaseReference": {
-						"EntityOID": "20191216063145-C-TICKET",
+						"EntityOID": "sf-C-TICKET",
 						"WMEntityVersionID": "1",
 						"WMpartition": "1",
-						"RootID": "O326089-C",
-						"parentEntityID": "O326089-C-SUMMARY",
-						"EntityType": "TICKET",
-						"EntityStatus": "NEW",
-						"WMEntitySchemaName": "minerva-cat-1_0.json",
-						"WMEntitySchemaVersion": "1_0",
-						"WMEntitySchemaCode": "1"
+						"RootID": "sdfasfd-C",
+						"parentEntityID": "dsfasf-C-SUMMARY",
+						"EntityType": "sdf",
+						"EntityStatus": "fds",
+						"WMEntitySchemaName": "dfddsan",
+						"WMEntitySchemaVersion": "sfd",
+						"WMEntitySchemaCode": "sfd"
 					},
-					"OrderID": "O326089",
-					"ManualOrderIndicator": "N",
-					"PreviouslyReported": "N",
-					"Currency": "USD",
-					"Side": "2",
-					"OrdType": "1",
-					"TimeInForce": "0",
-					"TradeDate": 20191216,
-					"TransactTime": "2019-12-16T13:17:44.022Z",
+					"OrderID": "sdf",
+					"ManualOrderIndicator": "sdf",
+					"PreviouslyReported": "sdf",
+					"Currency": "fasd",
+					"Side": "sdf",
+					"OrdType": "sdf",
+					"TimeInForce": "asdf",
+					"TradeDate": 8956846,
+					"TransactTime": "sfdd",
 					"Instrument": {
-						"Symbol": "AHKSY",
-						"SecurityID": "043400100",
-						"SecurityType": "CS"
+						"Symbol": "sfd",
+						"SecurityID": "sadf",
+						"SecurityType": "sdf"
 					},
 
 					"OrderQtyData": {
-						"OrderQty": "104"
+						"OrderQty": "sdf"
 					},
 
-					"InitialOrderDate": "20191216",
+					"InitialOrderDate": "asdf",
 					"WMEntityExtRefID": {
-						"WMEntityExtRefID": "20191216063145"
+						"WMEntityExtRefID": "asdf"
 					},
 					"Parties": [
 
 						{
 
-							"PartyID": "MM_ZZZZZ",
-							"PartyIDSource": "S",
-							"PartyRole": "49"
+							"PartyID": "asdf",
+							"PartyIDSource": "sd",
+							"PartyRole": "sfd"
 						}
 
 					],
 
 					"TrdRegTimestamps": [{
-							"TrdRegTimestamp": "2019-12-16T13:17:44.022Z",
-							"TrdRegTimestampType": "117",
-							"TrdRegTimestampOrigin": "014"
+							"TrdRegTimestamp": "sadf",
+							"TrdRegTimestampType": "sdf",
+							"TrdRegTimestampOrigin": "sadf"
 						},
 						{
-							"TrdRegTimestamp": "2019-12-16T13:17:44.022Z",
-							"TrdRegTimestampType": "4",
-							"TrdRegTimestampOrigin": "014"
+							"TrdRegTimestamp": "adsf",
+							"TrdRegTimestampType": "ds",
+							"TrdRegTimestampOrigin": "df"
 						},
+						
 						{
-							"TrdRegTimestamp": "2019-12-16T13:17:44.022Z",
-							"TrdRegTimestampType": "118",
-							"TrdRegTimestampOrigin": "012"
-						},
-						{
-							"TrdRegTimestamp": "2019-12-16T13:17:44.022Z",
-							"TrdRegTimestampType": "6",
-							"TrdRegTimestampOrigin": "012"
+							"TrdRegTimestamp": "adsf",
+							"TrdRegTimestampType": "ds",
+							"TrdRegTimestampOrigin": "df"
 						}
 					]
 
